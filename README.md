@@ -25,4 +25,3 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-<a>good boy</a>
